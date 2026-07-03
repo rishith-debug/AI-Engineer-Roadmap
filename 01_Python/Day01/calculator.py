@@ -1,0 +1,6 @@
+a =int ("20")
+b = int("40")
+print (a+b)
+print(a-b)
+print(a*b)
+print(a/b)
