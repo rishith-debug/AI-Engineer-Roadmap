@@ -1,0 +1,5 @@
+sentence = ("I love java")
+old_word = ("java")
+new_word = ("python")
+replace = sentence.replace(old_word,new_word)
+print(replace)

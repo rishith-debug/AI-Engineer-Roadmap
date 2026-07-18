@@ -1,0 +1,5 @@
+name = input("Enter your name: ")
+name_2 = name.lower()
+name_3 = name.upper()
+print("the lower is : ",name_2)
+print("the upper is : ", name_3)
