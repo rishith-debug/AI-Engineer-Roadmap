@@ -40,7 +40,7 @@ print(f"lowercase :{count_lowercase}")
 print(f"digit :{count_digits}")
 print(f"special :{count_special_char}")
 """
-
+"""
 def palindrome(string):
                reverse_str = ""
                clean_string = string.lower()
@@ -53,5 +53,6 @@ def palindrome(string):
                               return "The word is not a palindrome"
 name = input("Enter the name: ")
 print(palindrome(name))
+"""
                
 
