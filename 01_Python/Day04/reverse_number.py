@@ -5,4 +5,4 @@ rev_str = ""
 for i in range(len(num_2) -1,-1,-1):
                rev_str += num_2[i]
                reversed_num = int()
-               print(f"reversed_num = {rev_str}")
+print(f"reversed_num = {rev_str}")

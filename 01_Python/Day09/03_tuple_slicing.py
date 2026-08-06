@@ -1,0 +1,5 @@
+numbers = (10, 20, 30, 40, 50, 60)
+print("First three element :" ,numbers[0:3])
+print("middle element :" ,numbers[2:4])
+print("last three element :" ,numbers[-3:6])
+print("Complete element :",numbers[0:6])
