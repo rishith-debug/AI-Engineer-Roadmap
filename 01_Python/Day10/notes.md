@@ -22,3 +22,9 @@ Answer: It removes a specified element from a set. If the element doesn't exist,
 
 Q5. Why use discard() instead of remove()?
 Answer: Use discard() when you're not sure whether the element exists, because it won't raise a KeyError.
+
+Q6. What does clear() do?
+Answer: It removes all elements from a set and leaves an empty set.
+
+Q7. Does clear() delete the set itself?
+Answer: No. It removes the elements, but the set remains as an empty set.
