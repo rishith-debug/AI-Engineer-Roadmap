@@ -1,7 +1,13 @@
 student = {
+
                "Name" : "Rishith",
+
                "Branch" : "Aiml",
+
                "Age": 20
+
 }
-student.pop("Age")
+
+student.popitem()
+
 print(student)
